@@ -1,11 +1,13 @@
 # The House Always Wins
 
+Date: March 5, 2020
+
 ## Investigators
 
 | Player | Investigator | Notes |
 | ------ | ------------ | ----- |
-| Dan    | Agnes        | +1 physical trauma |
-| Daniel | Ashcan Pete  | +1 physical trauma |
+| Dan    | Agnes        | took +1 physical trauma |
+| Daniel | Ashcan Pete  | took +1 physical trauma |
 | Matt   | Zoey         | +1 physical trauma |
 | Michael| Jenny        | +1 physical trauma |
 
