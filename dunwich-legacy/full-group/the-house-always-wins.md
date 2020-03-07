@@ -8,8 +8,8 @@ Date: March 5, 2020
 | ------- | ------------- |
 | Dan     | Agnes Baker   | 
 | Daniel  | "Ashcan" Pete | 
-| Matt    | Zoey Samaras  | 
-| Michael | Jenny Barnes  | 
+| Matt    | [Zoey Samaras](https://arkhamdb.com/deck/view/623424)  | 
+| Michael | [Jenny Barnes](https://arkhamdb.com/deck/view/617307)  | 
 
 ## Log
 
