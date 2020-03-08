@@ -4,12 +4,12 @@ Date: March 5, 2020
 
 ## Investigators
 
-| Player  | Investigator  |
-| ------- | ------------- |
-| Dan     | Agnes Baker   | 
-| Daniel  | "Ashcan" Pete | 
-| Matt    | [Zoey Samaras](https://arkhamdb.com/deck/view/623424)  | 
-| Michael | [Jenny Barnes](https://arkhamdb.com/deck/view/617307)  | 
+| Player  | Investigator                                          |
+| ------- | ----------------------------------------------------- |
+| Dan     | [Agnes Baker](https://arkhamdb.com/deck/view/633203)  |
+| Daniel  | "Ashcan" Pete                                         |
+| Matt    | [Zoey Samaras](https://arkhamdb.com/deck/view/623424) |
+| Michael | [Jenny Barnes](https://arkhamdb.com/deck/view/617307) |
 
 ## Log
 
@@ -21,11 +21,11 @@ Date: March 5, 2020
 
 ## Permanent Effects
 
-| Player   | Investigator  | PT | MT | XP | Tot XP | Tot XP Spent | Gained Story Assets |
-| -------- | ------------- | -: | -: | -: | -----: | -----------: | ------------------- |
-| Dan      | Agnes Baker   | 1  | 0  | 5  | 5      |            0 |                     |
-| Daniel   | "Ashcan" Pete | 1  | 0  | 5  | 5      |            0 |                     |
-| Matt     | Zoey Samaras  | 1  | 0  | 5  | 5      |            0 |                     |
-| Michael  | Jenny Barnes  | 1  | 0  | 5  | 5      |            0 |                     |
-| Jonathan | Daisy Walker  | 0  | 0  | 0  | 0      |            0 |                     |
+| Player   | Investigator  |   PT |   MT |   XP | Tot XP | Tot XP Spent | Gained Story Assets |
+| -------- | ------------- | ---: | ---: | ---: | -----: | -----------: | ------------------- |
+| Dan      | Agnes Baker   |    1 |    0 |    5 |      5 |            0 |                     |
+| Daniel   | "Ashcan" Pete |    1 |    0 |    5 |      5 |            0 |                     |
+| Matt     | Zoey Samaras  |    1 |    0 |    5 |      5 |            0 |                     |
+| Michael  | Jenny Barnes  |    1 |    0 |    5 |      5 |            0 |                     |
+| Jonathan | Daisy Walker  |    0 |    0 |    0 |      0 |            0 |                     |
 
