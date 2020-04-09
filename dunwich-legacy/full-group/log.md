@@ -1,5 +1,23 @@
 # Campagin Log
 
+## Blood on the Altar
+
+R1:
+
+* *The investigators put Silas Bishop out of his misery*
+* *Sacrificed to Yog-Sothoth:* Professor Francis Morgan
+* 4 XP total (2xp bonus plus 2xp for Silas)
+* *Professor Armitage survived the Dunwich Legacy*
+* *Professor Warren Rice surived the Dunwich Legacy*
+* *Earl Sawyer survived the Dunwich Legacy*
+* *Zebulon Whately survived the Dunwich Legacy*
+
+Gained Assets
+
+* Michael: Professor Armitage, Powder of Ibn-Ghazi
+* Dan: Earl Sawyer
+* Matt: Zebulon Whately
+* Jonathan: Professor Warren Rice
 
 
 ## Essex County Express
