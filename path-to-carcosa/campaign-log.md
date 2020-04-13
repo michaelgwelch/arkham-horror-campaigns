@@ -12,11 +12,20 @@
 |            |     |     |     |     |     |     |     |     |     |     |
 | ---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Doubt      | ✔   |     |     |     |     |     |     |     |     |     |
-| Conviction |     |     |     |     |     |     |     |     |     |     |
+| Conviction | ✔   |     |     |     |     |     |     |     |     |     |
 
 ## Chasing the Stranger
 
-Tally Marks: ✔️✔️
+Tally Marks: ✔️✔️✔
+
+## The Last King
+
+* We interviewed Constance, Jordan, and Sebastien
+* VIPS slain (all of them): Ishimaru, Ashleigh, Constance, Sebastien, Jordan
+* 4XP
+* slayed the monsters at the dinner party
+* Matt and Michael got out, Resolution 1
+* Dan got a trauma (he's now got 1 physical and 1 mental)
 
 ## Curtain Call
 
