@@ -2,7 +2,7 @@
 
 | Player  | Investigator  |   PT |   MT |   Earned Assets/Weaknesses |
 | ------- | ------------- | ---: | ---: | -------------------------: |
-| Dan     | Mark Harrigan |    0 |    1 | The Man in the Pallid Mask |
+| Dan     | Mark Harrigan |    1 |    1 | The Man in the Pallid Mask |
 | Matt    | Agnes Baker   |    1 |    0 |                            |
 | Michael | Rex Murphy    |    1 |    0 |                            |
 
@@ -18,12 +18,21 @@
 
 Tally Marks: ✔️✔️✔
 
+## Lunacy's Reward
+
+Chose #3
+
+* slayed the monsters at the dinner party
+* 1 more conviction
+* VIPS slain (all of them): Ishimaru, Ashleigh, Constance, Sebastien, Jordan
+* Remove all acolyte, tablet and elder thing tokens, Add 2 acolyte tokens
+  
 ## The Last King
 
+Resolution 1
+
 * We interviewed Constance, Jordan, and Sebastien
-* VIPS slain (all of them): Ishimaru, Ashleigh, Constance, Sebastien, Jordan
 * 4XP
-* slayed the monsters at the dinner party
 * Matt and Michael got out, Resolution 1
 * Dan got a trauma (he's now got 1 physical and 1 mental)
 
