@@ -1,5 +1,14 @@
 # Campagin Log
 
+## Undimensioned and Unseen
+
+We all resigned. Only 1 XP
+
+R1
+
+* 4 brood escaped into the wild
+* Michael loes the Powder of Ibn Ghazi
+
 ## Blood on the Altar
 
 R1:
