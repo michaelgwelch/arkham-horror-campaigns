@@ -12,20 +12,18 @@
 |            |     |     |     |     |     |     |     |     |     |     |
 | ---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Doubt      | ✔   |     |     |     |     |     |     |     |     |     |
-| Conviction | ✔   |     |     |     |     |     |     |     |     |     |
+| Conviction | ✔   | ✔   |     |     |     |     |     |     |     |     |
 
 ## Chasing the Stranger
 
 Tally Marks: ✔️✔️✔
 
-## Lunacy's Reward
+## Curtain Call
 
-Chose #3
-
-* slayed the monsters at the dinner party
-* 1 more conviction
-* VIPS slain (all of them): Ishimaru, Ashleigh, Constance, Sebastien, Jordan
-* Remove all acolyte, tablet and elder thing tokens, Add 2 acolyte tokens
+* *chose not to go the police*  (one doubt added)
+* *The stranger is on to us* (Pallid Mask weakness added to Mark Harrigan deck)
+* Two tally marks added to Chasing the stranger due to defeating pallid mask man twice
+* 6 XP (3 locations, 2 enemies - royal emmisary, agent of the kind)
   
 ## The Last King
 
@@ -36,12 +34,17 @@ Resolution 1
 * Matt and Michael got out, Resolution 1
 * Dan got a trauma (he's now got 1 physical and 1 mental)
 
-## Curtain Call
+## Lunacy's Reward
 
-* *chose not to go the police*  (one doubt added)
-* *The stranger is on to us* (Pallid Mask weakness added to Mark Harrigan deck)
-* Two tally marks added to Chasing the stranger due to defeating pallid mask man twice
-* 6 XP (3 locations, 2 enemies - royal emmisary, agent of the kind)
-  
+Chose #3
 
+* slayed the monsters at the dinner party
+* 1 more conviction
+* VIPS slain (all of them): Ishimaru, Ashleigh, Constance, Sebastien, Jordan
+* Remove all acolyte, tablet and elder thing tokens, Add 2 acolyte tokens
 
+## Scenario III: Echoes of the Past
+
+* *We took the onyx*
+* 1 more conviction
+* 2 XP
