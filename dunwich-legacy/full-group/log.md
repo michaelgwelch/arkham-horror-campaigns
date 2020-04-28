@@ -1,5 +1,10 @@
 # Campagin Log
 
+## Where Doom Awaits
+
+R1: Investigators entered the gate
+4 XP
+
 ## Undimensioned and Unseen
 
 We all resigned. Only 1 XP

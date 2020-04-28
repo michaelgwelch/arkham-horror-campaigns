@@ -12,11 +12,11 @@
 |            |     |     |     |     |     |     |     |     |     |     |
 | ---------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Doubt      | ✔   |     |     |     |     |     |     |     |     |     |
-| Conviction | ✔   | ✔   |     |     |     |     |     |     |     |     |
+| Conviction | ✔   | ✔   | ✔   | ✔   |     |     |     |     |     |     |
 
 ## Chasing the Stranger
 
-Tally Marks: ✔️✔️✔
+Tally Marks: ✔️✔️✔✔
 
 ## Curtain Call
 
@@ -48,3 +48,12 @@ Chose #3
 * *We took the onyx*
 * 1 more conviction
 * 2 XP
+
+## Scenario IV:
+
+R3
+
+* 5 XP
+* *investigators escaped the Asylum*
+* *heeded Daniel's warning*
+* Can't say HASTUR ever again.
